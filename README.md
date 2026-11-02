@@ -6,6 +6,7 @@
 
 *   🛒 **Direct Sales:** Cut marketplace fees by selling directly to your audience in Telegram.
 *   📅 **Automation:** Free up your admins with 24/7 automated booking and zero double-bookings.
+*   🤖 **AI-Assisted:** Leverage modern AI tools to write cleaner code faster and reduce development costs.
 *   🎓 **Qualified:** Certified Python Developer (with AI tools integration).
 
 📍 Kazan, Russia (UTC+3) • 💼 Available for project-based work (Turnkey)
