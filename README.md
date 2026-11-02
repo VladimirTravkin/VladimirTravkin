@@ -30,21 +30,27 @@
 
 ### 🚀 Featured Projects
 
-#### 🛒 E-commerce Telegram Mini App & Bot
-A full-fledged store inside Telegram. Direct sales channel without marketplace commissions.
+#### 🛒 E-commerce Telegram Mini App (Clothing Store)
+A full-fledged clothing store inside Telegram. Direct sales channel without marketplace commissions.
 *   **Stack:** Python, FastAPI, PostgreSQL, aiogram v3, Telegram WebApp SDK, Docker, Nginx.
 *   **Key Features:** `initData` validation (HMAC-SHA256), YooKassa integration (test mode), Rate Limiting.
-*   🔗 **[Open the Bot in Telegram](https://t.me/VM13TgShopBot)**
+*   🔗 **[Open the Store in Telegram](https://t.me/VM13TgShopBot)**
+*   💻 **[Source Code](https://github.com/VladimirTravkin/tg-shop-miniapp)**
+> *(Note: The Telegram app is required to view the project. If access to the messenger is restricted, you can review the source code and interface in the repository).*
 
 #### 🏥 MedBook API (REST API for Appointments)
 Reliable backend for automating bookings (clinics, salons). Eliminates double-bookings and reduces staff workload.
 *   **Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, JWT, Docker.
 *   🔗 **[Live Demo (Swagger UI)](https://medbook-api-sayq.onrender.com/docs)**
+*   💻 **[Source Code](https://github.com/VladimirTravkin/medbook-api)**
+> *(Note: The demo is hosted on a global cloud provider and may be restricted in certain regions due to ISP routing. The project can be fully deployed locally via Docker in a few minutes).*
 
-#### 🤖 Telegram Order Bot (Core System)
-A robust bot for accepting and tracking orders, replacing manual manager chats.
+#### 🤖 Telegram Food Delivery Bot (Core System)
+A robust bot for accepting and tracking food orders, replacing manual manager chats and handling the entire request processing logic.
 *   **Stack:** Python, aiogram v3, PostgreSQL, SQLAlchemy 2.0, Redis, Docker.
-*   🔗 **[Open the Bot in Telegram](https://t.me/VM13TgShopBot)**
+*   🔗 **[Test the Bot in Telegram](https://t.me/vm13_tg_order_bot)**
+*   💻 **[Source Code](https://github.com/VladimirTravkin/tg-order-bot)**
+> *(Note: The Telegram app is required to test the bot. If access to the messenger is restricted, the full workflow is described in the repository documentation).*
 
 ---
 
