@@ -30,21 +30,21 @@
 
 ### 🚀 Избранные проекты
 
-#### 🛒 E-commerce Telegram Mini App и бот
-Полноценный магазин внутри Telegram. Прямой канал продаж без комиссий маркетплейсов.
+#### 🛒 E-commerce Telegram Mini App (Одежда)
+Полноценный магазин одежды внутри Telegram. Прямой канал продаж без комиссий маркетплейсов.
 *   **Стек:** Python, FastAPI, PostgreSQL, aiogram v3, Telegram WebApp SDK, Docker, Nginx.
 *   **Фишки:** Валидация `initData` (HMAC-SHA256), интеграция ЮKassa (тестовый режим), Rate Limiting.
-*   🔗 **[Открыть бота в Telegram](https://t.me/VM13TgShopBot)**
+*   🔗 **[Открыть витрину магазина в Telegram](https://t.me/VM13TgShopBot)**
 
 #### 🏥 MedBook API (REST API для записи)
 Надежный бэкенд для автоматизации записи (клиники, салоны). Исключает двойные бронирования и снижает нагрузку на администраторов.
 *   **Стек:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, JWT, Docker.
 *   🔗 **[Живое демо (Swagger UI)](https://medbook-api-sayq.onrender.com/docs)**
 
-#### 🤖 Telegram-бот для приема заказов (Ядро системы)
-Надежный бот для приема и трекинга заказов, заменяющий ручную переписку менеджера.
+#### 🤖 Telegram-бот для доставки продуктов (Ядро системы)
+Надежный бот для приема и трекинга заказов продуктов. Заменяет ручную переписку менеджера и берет на себя всю логику обработки заявок.
 *   **Стек:** Python, aiogram v3, PostgreSQL, SQLAlchemy 2.0, Redis, Docker.
-*   🔗 **[Открыть бота в Telegram](https://t.me/VM13TgShopBot)**
+*   🔗 **[Протестировать логику бота в Telegram](https://t.me/VM13TgShopBot)**
 
 ---
 
