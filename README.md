@@ -38,7 +38,7 @@ A full-fledged clothing store inside Telegram. Direct sales channel without mark
 *   🔗 **[Open the Store in Telegram](https://t.me/VM13TgShopBot)**
 *   💻 **[Source Code](https://github.com/VladimirTravkin/tg-shop-miniapp)**
 <p align="center">
-  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Telegram Mini App Clothing Store Interface" width="500">
+  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Telegram Mini App Clothing Store Interface" width="350">
 </p>
 > *(Note: The Telegram app is required to view the project. If access to the messenger is restricted, you can review the source code and interface in the repository).*
 
@@ -47,6 +47,9 @@ Reliable backend for automating bookings (clinics, salons). Eliminates double-bo
 *   **Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, JWT, Docker.
 *   🔗 **[Live Demo (Swagger UI)](https://medbook-api-sayq.onrender.com/docs)**
 *   💻 **[Source Code](https://github.com/VladimirTravkin/medbook-api)**
+<p align="center">
+  <img src="https://github.com/VladimirTravkin/medbook-api/raw/main/docs/images/demo-booking.gif" alt="MedBook REST API Swagger Documentation" width="600">
+</p>
 > *(Note: The demo is hosted on a global cloud provider and may be restricted in certain regions due to ISP routing. The project can be fully deployed locally via Docker in a few minutes).*
 
 #### 🤖 Telegram Food Delivery Bot (Core System)
