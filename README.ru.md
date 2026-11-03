@@ -25,6 +25,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -32,7 +33,7 @@
 
 #### 🛒 E-commerce Telegram Mini App (Магазин одежды)
 Полноценный магазин одежды внутри Telegram. Прямой канал продаж без комиссий маркетплейсов.
-*   **Стек:** Python, FastAPI, PostgreSQL, aiogram v3, Telegram WebApp SDK, Docker, Nginx.
+*   **Стек:** Python, FastAPI, **React**, PostgreSQL, aiogram v3, Telegram WebApp SDK, Docker, Nginx.
 *   **Фишки:** Валидация `initData` (HMAC-SHA256), интеграция ЮKassa (тестовый режим), Rate Limiting.
 *   🔗 **[Открыть витрину магазина в Telegram](https://t.me/VM13TgShopBot)**
 *   💻 **[Исходный код](https://github.com/VladimirTravkin/tg-shop-miniapp)**
