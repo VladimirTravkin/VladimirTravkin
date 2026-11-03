@@ -55,6 +55,17 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 
 ---
 
+### 🤝 How I work
+
+*As an independent developer, you communicate directly with me — no middlemen or managers.*
+
+1.  **Brief & Specs:** You share your business goals, and I map out the technical scope and timeline.
+2.  **Design & Prototype:** We agree on the UI/UX and user flow before writing code (or I use your ready-made designs).
+3.  **Development:** I write clean, tested code and provide regular progress updates.
+4.  **Deployment & Handover:** I deploy via Docker, provide all access details, and share clear documentation.
+
+---
+
 ### 🎓 Education & Certificates
 
 *   **ООО «Ростелеком Информационные Технологии»** — Повышение квалификации: «Python-разработчик с использованием инструментов ИИ» (72 hours, 2026). Reg. number: 26-01096.
