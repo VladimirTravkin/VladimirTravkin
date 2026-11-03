@@ -59,7 +59,7 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 
 *As an independent developer, you communicate directly with me — no middlemen or managers.*
 
-1.  **Brief & Specs:** You share your business goals, and I map out the technical scope and timeline.
+1.  **Brief & Specs:** We work with your existing specs or define the technical requirements and business goals from scratch to lock in the scope and timeline.
 2.  **Design & Prototype:** We agree on the UI/UX and user flow before writing code (or I use your ready-made designs).
 3.  **Development:** I write clean, tested code and provide regular progress updates.
 4.  **Deployment & Handover:** I deploy via Docker, provide all access details, and share clear documentation.
