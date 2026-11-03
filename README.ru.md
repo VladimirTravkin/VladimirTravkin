@@ -57,6 +57,9 @@
 *   **Стек:** Python, aiogram v3, PostgreSQL, SQLAlchemy 2.0, Redis, Docker.
 *   🔗 **[Протестировать логику бота в Telegram](https://t.me/vm13_tg_order_bot)**
 *   💻 **[Исходный код](https://github.com/VladimirTravkin/tg-order-bot)**
+<p align="center">
+  <img src="https://github.com/VladimirTravkin/tg-order-bot/raw/main/docs/images/demo.gif" alt="Меню бота для доставки продуктов" width="300">
+</p>
 > *(Примечание: для тестирования требуется установленное приложение Telegram. Если доступ к мессенджеру ограничен, полный сценарий работы описан в документации репозитория).*
 
 ---
