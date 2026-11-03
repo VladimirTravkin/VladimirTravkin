@@ -37,6 +37,9 @@
 *   **Фишки:** Валидация `initData` (HMAC-SHA256), интеграция ЮKassa (тестовый режим), Rate Limiting.
 *   🔗 **[Открыть витрину магазина в Telegram](https://t.me/VM13TgShopBot)**
 *   💻 **[Исходный код](https://github.com/VladimirTravkin/tg-shop-miniapp)**
+<p align="center">
+  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Магазин одежды" width="500">
+</p>  
 > *(Примечание: для просмотра проекта требуется установленное приложение Telegram. Если доступ к мессенджеру ограничен, вы можете изучить исходный код и логику работы в репозитории).*
 
 #### 🏥 MedBook API (REST API для записи)
