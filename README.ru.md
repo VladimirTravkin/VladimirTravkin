@@ -38,7 +38,7 @@
 *   🔗 **[Открыть витрину магазина в Telegram](https://t.me/VM13TgShopBot)**
 *   💻 **[Исходный код](https://github.com/VladimirTravkin/tg-shop-miniapp)**
 <p align="center">
-  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Магазин одежды" width="500">
+  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Магазин одежды" width="300">
 </p>  
 > *(Примечание: для просмотра проекта требуется установленное приложение Telegram. Если доступ к мессенджеру ограничен, вы можете изучить исходный код и логику работы в репозитории).*
 
@@ -47,6 +47,9 @@
 *   **Стек:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, JWT, Docker.
 *   🔗 **[Живое демо (Swagger UI)](https://medbook-api-sayq.onrender.com/docs)**
 *   💻 **[Исходный код](https://github.com/VladimirTravkin/medbook-api)**
+<p align="center">
+  <img src="https://github.com/VladimirTravkin/medbook-api/raw/main/docs/images/demo-booking.gif" alt="Документация MedBook API в Swagger" width="600">
+</p>
 > *(Примечание: демо-стенд размещен на зарубежном хостинге и может быть недоступен с некоторых провайдеров без дополнительных настроек сети. Проект полностью разворачивается локально через Docker за пару минут).*
 
 #### 🤖 Telegram-бот для доставки продуктов (Ядро системы)
