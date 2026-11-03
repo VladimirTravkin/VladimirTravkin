@@ -97,7 +97,7 @@ Do you already have a clear technical spec and a fixed budget, or just an idea? 
 ### 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TravkinVladimir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vpro68@mail.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://e.mail.ru/compose/?to=vpro68@mail.ru)
 
 ---
 *Note: I focus strictly on backend development and business logic. I do not provide UI/UX design from scratch (Figma) or purchase hosting/domains, but I will gladly integrate your ready-made designs and deploy the project on your server.*
