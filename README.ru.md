@@ -89,3 +89,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TravkinVladimir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vpro68@mail.ru)
+
+---
+*Примечание: Я занимаюсь исключительно backend-разработкой и логикой. Дизайн интерфейсов с нуля (Figma) и покупка серверов/доменов не входят в мою зону ответственности, но я с удовольствием интегрирую готовые макеты и разверну проект на вашем хостинге.*
