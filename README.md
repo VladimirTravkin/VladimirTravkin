@@ -79,6 +79,12 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 
 ---
 
+### 🚀 Ready to discuss your project?
+
+Do you already have a clear technical spec and a fixed budget, or just an idea? **Message me on Telegram — we will find the optimal solution for your business goals and constraints.**
+
+---
+
 ### 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TravkinVladimir)
