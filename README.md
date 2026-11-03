@@ -57,6 +57,9 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 *   **Stack:** Python, aiogram v3, PostgreSQL, SQLAlchemy 2.0, Redis, Docker.
 *   🔗 **[Test the Bot in Telegram](https://t.me/vm13_tg_order_bot)**
 *   💻 **[Source Code](https://github.com/VladimirTravkin/tg-order-bot)**
+<p align="center">
+  <img src="https://github.com/VladimirTravkin/tg-order-bot/raw/main/docs/images/demo.gif" alt="Food Delivery Telegram Bot Menu" width="300">
+</p>
 > *(Note: The Telegram app is required to test the bot. If access to the messenger is restricted, the full workflow is described in the repository documentation).*
 
 ---
