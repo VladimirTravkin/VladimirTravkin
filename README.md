@@ -68,7 +68,7 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 
 ### 🎓 Education & Certificates
 
-*   **ООО «Ростелеком Информационные Технологии»** — Повышение квалификации: «Python-разработчик с использованием инструментов ИИ» (72 hours, 2026). Reg. number: 26-01096.
+*   **Rostelecom Information Technologies LLC** — Professional Development: "Python Developer with AI Tools" (72 hours, 2026). Reg. number: 26-01096.
     <details>
       <summary><i>👉 Click to view the certificate</i></summary>
       <br>
