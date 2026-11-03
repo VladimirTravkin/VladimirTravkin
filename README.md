@@ -75,6 +75,13 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 
 ---
 
+### 💬 Testimonials
+
+> *"I needed a tool to quickly process large Excel files for my work reports without the manual routine. We didn't have the budget for expensive software. Vladimir built a lightweight utility with a very user-friendly interface. It works flawlessly and saves me hours of time!"*
+> — **Lilia, Healthcare Worker**
+
+---
+
 ### 🎓 Education & Certificates
 
 *   **Rostelecom Information Technologies LLC** — Professional Development: "Python Developer with AI Tools" (72 hours, 2026). Reg. number: 26-01096.
