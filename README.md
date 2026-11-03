@@ -38,7 +38,7 @@ A full-fledged clothing store inside Telegram. Direct sales channel without mark
 *   🔗 **[Open the Store in Telegram](https://t.me/VM13TgShopBot)**
 *   💻 **[Source Code](https://github.com/VladimirTravkin/tg-shop-miniapp)**
 <p align="center">
-  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Telegram Mini App Clothing Store Interface" width="350">
+  <img src="https://github.com/VladimirTravkin/tg-shop-miniapp/raw/main/docs/images/demo.gif" alt="Telegram Mini App Clothing Store Interface" width="300">
 </p>
 > *(Note: The Telegram app is required to view the project. If access to the messenger is restricted, you can review the source code and interface in the repository).*
 
