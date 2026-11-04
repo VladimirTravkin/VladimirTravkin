@@ -77,7 +77,7 @@ A robust bot for accepting and tracking food orders, replacing manual manager ch
 
 ### 💬 Testimonials
 
-> *"I needed a tool to quickly process large Excel files for my work reports without the manual routine. We didn't have the budget for expensive software. Vladimir built a lightweight utility with a very user-friendly interface. It works flawlessly and saves me hours of time!"*
+> *"My job involves processing a lot of Excel files, especially when management needs reports. I asked for a software solution to speed things up, but we didn't have the budget for it. Vladimir built a handy utility with a clear interface. It works great and saves me hours of time!"*
 > — **Lilia, Healthcare Worker**
 
 ---
