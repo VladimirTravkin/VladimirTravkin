@@ -107,5 +107,5 @@ Do you already have a clear technical spec and a fixed budget, or just an idea? 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://e.mail.ru/compose/?to=vpro68@mail.ru)
 
 ---
-*Note: I focus strictly on backend development and business logic. I do not provide UI/UX design from scratch (Figma) or purchase hosting/domains, but I will gladly integrate your ready-made designs and deploy the project on your server.*
+*Note: I specialize in backend development, business logic, and building automation utilities (including desktop apps and scripts). I do not provide UI/UX design from scratch (Figma) or purchase hosting/domains, but I will gladly integrate your ready-made designs and deploy the project on your server.*
 
